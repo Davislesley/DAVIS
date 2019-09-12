@@ -1,0 +1,11 @@
+D:\QUIZ BU YUR\bin\Debug\netcoreapp2.2\QUIZ BU YUR.deps.json
+D:\QUIZ BU YUR\bin\Debug\netcoreapp2.2\QUIZ BU YUR.runtimeconfig.json
+D:\QUIZ BU YUR\bin\Debug\netcoreapp2.2\QUIZ BU YUR.runtimeconfig.dev.json
+D:\QUIZ BU YUR\bin\Debug\netcoreapp2.2\QUIZ BU YUR.dll
+D:\QUIZ BU YUR\bin\Debug\netcoreapp2.2\QUIZ BU YUR.pdb
+D:\QUIZ BU YUR\obj\Debug\netcoreapp2.2\QUIZ BU YUR.csprojAssemblyReference.cache
+D:\QUIZ BU YUR\obj\Debug\netcoreapp2.2\QUIZ BU YUR.csproj.CoreCompileInputs.cache
+D:\QUIZ BU YUR\obj\Debug\netcoreapp2.2\QUIZ BU YUR.AssemblyInfoInputs.cache
+D:\QUIZ BU YUR\obj\Debug\netcoreapp2.2\QUIZ BU YUR.AssemblyInfo.cs
+D:\QUIZ BU YUR\obj\Debug\netcoreapp2.2\QUIZ BU YUR.dll
+D:\QUIZ BU YUR\obj\Debug\netcoreapp2.2\QUIZ BU YUR.pdb
